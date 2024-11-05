@@ -1,0 +1,49 @@
+.container {
+    width: 270px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    margin: 10px auto;
+    position: relative;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 14px;
+}
+
+.card-text {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+    left: 10px;
+    color: white;
+}
+
+.eren{
+    position: fixed;
+    bottom: 100px;
+    right: 500px;
+}
+
+.levi{
+    position :absolute;
+    left: 100px;
+}
+.levi-space{
+    position: relative;
+}
+.levi-text{
+    position: absolute;
+    bottom: 0;
+    color: red;
+}
+.mikasa {
+    position: sticky;
+    top: 520px;
+    margin-left: 800px;
+    margin-top : 800px;
+}
+.titans{
+    margin-top: 1000px;
+}
